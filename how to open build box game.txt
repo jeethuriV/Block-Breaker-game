@@ -1,0 +1,5 @@
+download BBBBB.part1.rar ,BBBBB.part2.rar, BBBBB.part3.rar
+first open the empty folder and place these rar files
+now open the first rar(BBBBB.part1.rar) file click extract to it will automatically merges all the parted files
+
+and please make sure all the three in same folder and open the first rar to extract.
