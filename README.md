@@ -10,3 +10,7 @@ To play Block Breaker game download these files
 Now open the BBBBB.part1.rar with winrar archiver 
 After opening click on extract to "it will extracts the workable apk"
 install the apk on your mobile and have a nice play.
+
+Direct apk downloadable link
+
+    https://bit.ly/2Qzuzh4
